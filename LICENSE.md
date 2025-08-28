@@ -1,6 +1,6 @@
 PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2024 [Your Name/Company Name]. All Rights Reserved.
+Copyright (c) 2024 AlphGlider25. All Rights Reserved.
 
 1. LIMITED LICENSE GRANT
 Subject to the terms and conditions of this Agreement, Licensor hereby grants You a limited, non-exclusive, non-transferable, non-sublicensable license to:
@@ -29,12 +29,12 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM OR RELATED TO YOUR USE OF THE SOFTWARE.
 
 7. GOVERNING LAW
-This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
+This Agreement shall be governed by and construed in accordance with the laws of South Afrika, without regard to its conflict of law principles.
 
 8. COMPLETE AGREEMENT
 This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements, oral or written, relating to the subject matter herein.
 
 9. CONTACT INFORMATION
-For licensing inquiries or permission requests, contact: [Your Email Address]
+For licensing inquiries or permission requests, contact: 12aa44edsta@gmail.com
 
 BY ACCESSING, VIEWING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
