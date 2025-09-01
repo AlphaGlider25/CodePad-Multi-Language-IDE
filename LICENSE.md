@@ -29,7 +29,7 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM OR RELATED TO YOUR USE OF THE SOFTWARE.
 
 7. GOVERNING LAW
-This Agreement shall be governed by and construed in accordance with the laws of South Afrika, without regard to its conflict of law principles.
+This Agreement shall be governed by and construed in accordance with the laws of South Africa, without regard to its conflict of law principles.
 
 8. COMPLETE AGREEMENT
 This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements, oral or written, relating to the subject matter herein.
